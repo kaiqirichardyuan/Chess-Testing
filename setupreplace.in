@@ -1,0 +1,9 @@
+setup
++ Q d1
++ K d1
++ p a7
++ b a7
++ k h8
+= white
+done
+game human human

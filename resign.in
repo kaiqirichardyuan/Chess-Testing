@@ -1,0 +1,12 @@
+setup
++ K d1
++ k f7
++ Q a4
++ B h2
++ R c4
+= black
+done
+game human human
+resign
+N
+quit

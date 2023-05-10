@@ -1,0 +1,13 @@
+setup
++ K e5
++ p f7
++ k b5
++ P c3
+= black
+done
+game human human
+move f7 f6
+move e5 d6
+move f6 f5
+move c3 c4
+move b5 c4

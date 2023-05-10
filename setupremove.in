@@ -1,0 +1,16 @@
+setup
+- a1
++ K a1
++ k c1
+- c1
+- c1
++ k h8
++ n e5
++ B f3
+= black
+done
+game human human
+move e5 f3
+resign
+N
+quit

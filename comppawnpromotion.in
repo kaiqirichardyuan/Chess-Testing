@@ -1,0 +1,12 @@
+setup
++ K a1
++ k h8
++ P a7
+done
+game computer2 human
+start
+move
+undo
+resign
+N
+quit

@@ -1,0 +1,10 @@
+setup
++ K d5
++ k g3
++ p c5
+= white
+done
+game human human
+move d5 c5
+undo
+move d5 c5
